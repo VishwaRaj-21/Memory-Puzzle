@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VishwaRaj-21/Memory-Puzzle/static/css/main.d8774b86.css",
+    "main.js": "/VishwaRaj-21/Memory-Puzzle/static/js/main.9526650a.js",
+    "index.html": "/VishwaRaj-21/Memory-Puzzle/index.html",
+    "main.d8774b86.css.map": "/VishwaRaj-21/Memory-Puzzle/static/css/main.d8774b86.css.map",
+    "main.9526650a.js.map": "/VishwaRaj-21/Memory-Puzzle/static/js/main.9526650a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8774b86.css",
+    "static/js/main.9526650a.js"
+  ]
+}
